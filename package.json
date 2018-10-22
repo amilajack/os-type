@@ -13,6 +13,10 @@
     "neon-cli": "^0.2.0"
   },
   "scripts": {
-    "install": "neon build"
+    "install": "neon build",
+    "test": "jest ."
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
   }
 }

@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`basic should return object 1`] = `
+Object {
+  "osType": "unknown",
+  "version": "0.0.0",
+}
+`;

@@ -38,3 +38,4 @@ npm-debug.log.*
 target
 index.node
 artifacts.json
+package-lock.json
