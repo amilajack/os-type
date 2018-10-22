@@ -1,6 +1,6 @@
 {
   "name": "os-type",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Bindings to the os_type rust library",
   "main": "lib/index.js",
   "repository": {
