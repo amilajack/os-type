@@ -1,5 +1,7 @@
 # os-type
 
+[![Build Status](https://travis-ci.com/amilajack/os-type.svg?branch=master)](https://travis-ci.com/amilajack/os-type)
+
 Bindings to the [os_type](https://github.com/schultyy/os_type) Rust library using [Neon](https://github.com/neon-bindings/neon)
 
 ## Installation
